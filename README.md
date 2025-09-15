@@ -115,7 +115,7 @@ Navigate to the folder where your SampleProblem.js file is located:
 cd path/to/your/project
 ```
 
-Run the program with Node.js:
+**Run the program with Node.js:**
 ```
 node SampleProblem.js
 ```
