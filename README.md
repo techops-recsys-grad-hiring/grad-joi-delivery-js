@@ -74,8 +74,8 @@ Your expertise will directly impact how quickly and reliably customers receive t
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/techops-recsys-grad-hiring/grad-joi-delivery-javascript.git
-   cd grad-joi-delivery-javascript
+   git clone https://github.com/techops-recsys-grad-hiring/grad-joi-delivery-js.git
+   cd grad-joi-delivery-js
    ```
 
 2. **Install dependencies**
